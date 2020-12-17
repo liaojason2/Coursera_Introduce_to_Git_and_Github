@@ -1,4 +1,4 @@
-#Git & GitHub Pratice 
+# Git & GitHub Pratice 
 
 - This is a pratice repository for course "Introduce to Git and Github" on coursera provided by Google.
 
